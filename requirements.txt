@@ -1,0 +1,7 @@
+fastapi==0.115.*
+uvicorn[standard]==0.32.*
+python-multipart
+natasha==1.6.*
+pypdf
+python-docx
+requests
